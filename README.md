@@ -46,9 +46,6 @@
 ![Sublime](https://img.shields.io/badge/-Sublime-0D1117?style=for-the-badge&logo=sublimetext&labelColor=0D1117)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![SCRUM](https://img.shields.io/badge/-SCRUM-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Intellij](https://img.shields.io/badge/-Intellij-0D1117?style=for-the-badge&logo=intellij-idea&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
